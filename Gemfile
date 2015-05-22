@@ -11,6 +11,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'devise', '~> 3.4.1'
+gem 'rack-cors', :require => 'rack/cors'
 
 # gem 'therubyracer', platforms: :ruby
 
